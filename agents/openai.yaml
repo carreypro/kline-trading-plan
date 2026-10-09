@@ -1,0 +1,4 @@
+interface:
+  display_name: "K-Line Trading Plan"
+  short_description: "Turn live crypto signals into risk-sized trade plans"
+  default_prompt: "Use $kline-trading-plan to analyze BTC-USDT-SWAP and build a risk-sized trading plan."
